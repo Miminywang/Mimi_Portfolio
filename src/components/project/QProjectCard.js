@@ -4,11 +4,11 @@ import { Container, Row, Col } from "react-bootstrap";
 export const QProjectCard = ({ title, description, imgUrl }) => {
 
   const redirectToGithub = () => {
-    window.open ('https://github.com/');
+    window.open ('https://github.com/Miminywang/Mimi_Portfolio');
   };
 
   const redirectToDemo = () => {
-    window.location.href = 'https://github.com/';
+    window.open ('https://mimi-portfolio.vercel.app/');
   };
 
   return (
