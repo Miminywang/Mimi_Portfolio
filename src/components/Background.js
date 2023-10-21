@@ -33,7 +33,7 @@ export const Background = () => {
               <div className={`animate__animated ${isHovered ? 'animate__fadeInLeft' : ''}`}> 
                 <div className="work-list">
                   <h5>中央通訊社 | Central News Agency</h5>
-                  <span>06-2021 - 07-2023</span>
+                  <span>06-2021 - 06-2023</span>
                   <p>英文編譯 | Editor</p>
                 </div>               
               </div>

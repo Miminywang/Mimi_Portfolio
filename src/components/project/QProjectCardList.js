@@ -27,10 +27,10 @@ const QProjectCardList = () => {
           <p>HTML5, CSS3, JavaScript, Bootstrap(5.3.2), ReactJS</p>
       
         <h3>Workflow</h3>
-          <p>1. 使用 HTML5 和 CSS3 構建整個網站結構，並利用 Bootstrap 實現響應式設計。</p>
-          <p>2. 運用 ReactJS 架構打造互動性高、動態的功能，並透過react-router實現網頁內部導航功能。</p>
-          <p>3. 整合 animate.css 添加動畫效果，提升使用者體驗。</p>
-          <p>4. 提供填寫表單聯繫方式，使用 emailjs-com 實現郵件發送，並透過 DOMPurify 確保表單安全性。
+          <p>— 使用 HTML5 和 CSS3 構建整個網站結構，並利用 Bootstrap 實現響應式設計。</p>
+          <p>— 運用 ReactJS 架構打造互動性高、動態的功能，並透過react-router實現網頁內部導航功能。</p>
+          <p>— 整合 animate.css 添加動畫效果，提升使用者體驗。</p>
+          <p>— 提供填寫表單聯繫方式，使用 emailjs-com 實現郵件發送，並透過 DOMPurify 確保表單安全性。
           </p>
           </Col>
       </Row>
