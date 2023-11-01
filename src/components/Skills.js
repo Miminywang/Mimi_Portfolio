@@ -28,9 +28,7 @@ export const Skills = () => {
                     <li><FaJs /> JavaScript</li>
                     <li><BsBootstrap /> Bootstrap</li>
                     <li><FaReact /> ReactJS</li>
-                    <li><AiOutlineTool /> Webpack</li>
                     <li><AiOutlineTool /> Npm</li>
-                    <li><AiOutlineTool /> Eslint</li>
                   </ul>
                 </div>
               </Col>
